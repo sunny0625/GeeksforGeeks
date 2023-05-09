@@ -1,4 +1,5 @@
-// User function Template for C++
+// Problem: Data Type
+// Link: https://practice.geeksforgeeks.org/problems/data-type-1666706751/0
 
 class Solution {
   public:

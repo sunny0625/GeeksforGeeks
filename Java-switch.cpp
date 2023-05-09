@@ -1,3 +1,6 @@
+// Problem: Java Switch Case statement
+// Link: https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/0
+
 class Solution{
     static double switchCase(int choice, List<Double> arr){
         double x = 0.0;
