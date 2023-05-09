@@ -1,3 +1,6 @@
+// Problem: For Loop- primeCheck - C++
+// Link: https://practice.geeksforgeeks.org/problems/for-loop-primecheck-java/0
+
 void isPrime(int n) {
     
     if(n ==1){
